@@ -1,8 +1,8 @@
-<img align="right" src="https://user-images.githubusercontent.com/59755164/163805554-992cae7c-4401-4068-8efc-cb141762714d.gif" height="170"/>
+<!-- <img align="right" src="https://user-images.githubusercontent.com/59755164/163805554-992cae7c-4401-4068-8efc-cb141762714d.gif" height="170"/> -->
 
-- 🌱  Atualmente estou aprendendo Flutter
-- 📚  Atualmente estou cursando Informática para Negócios na instituição FATEC
-- 🎯  Pretendo me tornar, atráves de muito estudo e determinação, um Desenvolver altamente capacitado.
+- 🌱  Atualmente estou aprendendo ReactJS
+- 📚  Graduado em Informática para Negócios na instituição FATEC
+- 🎯  Pretendo me tornar, atráves de muito estudo e determinação, um Analista de Sistemas capacitado.
 
 <br/>
 <br/>
