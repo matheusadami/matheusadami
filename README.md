@@ -2,7 +2,7 @@
 
 - 🌱  Atualmente estou aprendendo ReactJS
 - 📚  Graduado em Informática para Negócios na instituição FATEC
-- 🎯  Pretendo me tornar, atráves de muito estudo e determinação, um Analista de Sistemas capacitado.
+- 🎯  Pretendo me tornar, atráves de muito estudo e determinação, um Full Stack Developer capacitado.
 
 <br/>
 <br/>
