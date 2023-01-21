@@ -41,10 +41,10 @@
   
 <div style="display: inline_block">
   <h3>Front-end</h3>
-
-  <img align="center" title="ReactJS" alt="ReactJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  
   <img align="center" title="VueJS" alt="VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" title="Vuetify" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
+  <img align="center" title="ReactJS" alt="ReactJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" title="TailwindCSS" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   
   <hr>
 </div>
