@@ -4,9 +4,6 @@
 - 📚  Graduado em Informática para Negócios na instituição FATEC
 - 🎯  Pretendo me tornar, atráves de muito estudo e determinação, um Full Stack Developer capacitado.
 
-<br/>
-<br/>
-
 <!--
 <div align="center">
   <a href="https://github.com/matheusadami">
@@ -15,9 +12,14 @@
 </div>
 -->
 
+<!--
+<br/>
+<br/>
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=matheusadami&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusadami&layout=compact&langs_count=7&theme=dark)
-  
+-->
+
 <br/>
 
 <div>
