@@ -1,8 +1,11 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/59755164/163805554-992cae7c-4401-4068-8efc-cb141762714d.gif" height="170"/> -->
+![Profile Views](https://komarev.com/ghpvc/?username=matheusadami&color=brightgreen)
 
-- 🌱  Atualmente estou aprendendo ReactJS
-- 📚  Graduado em Informática para Negócios na instituição FATEC
-- 🎯  Pretendo me tornar, atráves de muito estudo e determinação, um Full Stack Developer capacitado.
+<br/>
+
+- :seedling:  Atualmente estou aprendendo ReactJS.
+- :books:  Graduado em Informática para Negócios na instituição FATEC.
+- :dart:  Pretendo me tornar, atráves de muito estudo e determinação, um Full Stack Developer capacitado.
 
 <!--
 <div align="center">
@@ -23,15 +26,19 @@
 <br/>
 
 <div>
-   <a href="mailto:matheus.adami123@gmail.com">
-     <img src="https://img.shields.io/badge/-Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-  </a>
-
-   <a href="https://www.linkedin.com/in/matheus-adami/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-adami/" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-</div>
   
+  <a href="mailto:matheus.adami123@gmail.com">
+     <img src="https://img.shields.io/badge/-Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+  </a> 
+</div>
+
+### :fire: Meu Status
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matheusadami&theme=dark&background=1A1B27)](https://git.io/streak-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=matheusadami&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+
 <div style="display: inline_block">
   <h3>Back-end</h3>
 
@@ -79,17 +86,4 @@
 <br/>
 
 ![Snake animation](https://github.com/matheusadami/matheusadami/blob/output/github-contribution-grid-snake.svg)
--->
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
