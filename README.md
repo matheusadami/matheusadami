@@ -1,5 +1,5 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/59755164/163805554-992cae7c-4401-4068-8efc-cb141762714d.gif" height="170"/> -->
-![Profile Views](https://komarev.com/ghpvc/?username=matheusadami&color=brightgreen)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=matheusadami&color=brightgreen) -->
 
 <br/>
 
