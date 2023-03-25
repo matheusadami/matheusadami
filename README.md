@@ -30,7 +30,7 @@
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
-  <a href="mailto:matheus.adami123@gmail.com">
+  <a href="mailto:matheus.adami.dev@gmail.com">
      <img src="https://img.shields.io/badge/-Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a> 
 </div>
