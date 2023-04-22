@@ -3,9 +3,9 @@
 
 <br/>
 
-- :seedling:  Atualmente estou aprendendo ReactJS.
+- :seedling:  Atualmente estou aprendendo Angular e ASP.NET.
 - :books:  Graduado em Informática para Negócios na instituição FATEC.
-- :dart:  Pretendo me tornar, atráves de muito estudo e determinação, um Full Stack Developer capacitado.
+- :dart:  Pretendo me tornar, atráves de muito estudo e determinação, um desenvolvedor Full Stack capacitado.
 
 <!--
 <div align="center">
@@ -79,7 +79,7 @@
 
   <img align="center" title="Docker" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
   <img align="center" title="Git" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" title="Linux" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg"/>
+  <img align="center" title="Linux" alt="Linux" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
 <!--
