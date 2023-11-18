@@ -3,7 +3,7 @@
 
 <br/>
 
-- :seedling:  Atualmente estou aprendendo Angular e ASP.NET.
+- :seedling:  Atualmente estou aprendendo NodeJS.
 - :books:  Graduado em Informática para Negócios na instituição FATEC.
 - :dart:  Pretendo me tornar, atráves de muito estudo e determinação, um desenvolvedor Full Stack capacitado.
 
