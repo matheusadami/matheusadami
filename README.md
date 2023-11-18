@@ -3,8 +3,9 @@
 
 <br/>
 
+- :wave: Oi, seja bem-vindo(a) ao meu perfil.
 - :seedling:  Atualmente estou aprendendo NodeJS.
-- :books:  Graduado em Informática para Negócios na instituição FATEC.
+- :books:  Sou técnico em Análise e Desenvolvimento de Sistemas na ETEC e graduado em Informática para Negócios na FATEC.
 - :dart:  Pretendo me tornar, atráves de muito estudo e determinação, um desenvolvedor Full Stack capacitado.
 
 <!--
@@ -44,6 +45,7 @@
 
   <img align="center" title="PHP" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" title="Laravel" alt="Laravel" height="40" width="50" src="https://user-images.githubusercontent.com/59755164/163813090-16f16683-c610-48c5-bd51-95a70b74f475.svg">
+  <img align="center" title="NodeJS" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   
   <hr>
 </div>
