@@ -3,10 +3,8 @@
 
 <br/>
 
-- :wave: Oi, seja bem-vindo(a) ao meu perfil.
-- :seedling:  Atualmente estou aprendendo NodeJS.
+- :wave: Sseja bem-vindo(a) ao meu perfil.
 - :books:  Sou técnico em Análise e Desenvolvimento de Sistemas na ETEC e graduado em Informática para Negócios na FATEC.
-- :dart:  Pretendo me tornar, atráves de muito estudo e determinação, um desenvolvedor Full Stack capacitado.
 
 <!--
 <div align="center">
@@ -43,9 +41,8 @@
 <div style="display: inline_block">
   <h3>Back-end</h3>
 
-  <img align="center" title="PHP" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" title="Laravel" alt="Laravel" height="40" width="50" src="https://user-images.githubusercontent.com/59755164/163813090-16f16683-c610-48c5-bd51-95a70b74f475.svg">
   <img align="center" title="NodeJS" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="Golang" alt="Golang" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
   
   <hr>
 </div>
@@ -54,8 +51,7 @@
   <h3>Front-end</h3>
   
   <img align="center" title="VueJS" alt="VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" title="ReactJS" alt="ReactJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" title="TailwindCSS" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" title="Angular" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   
   <hr>
 </div>
@@ -64,14 +60,6 @@
   <h3>Desenvolvimento Mobile</h3>
 
   <img align="center" title="Flutter" alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  
-  <hr>
-</div>
-
-<div style="display: inline_block">
-  <h3>IDE</h3>
-
-  <img align="center" title="VSCode" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   
   <hr>
 </div>
