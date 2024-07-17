@@ -3,7 +3,7 @@
 
 <br/>
 
-- :wave: Sseja bem-vindo(a) ao meu perfil.
+- :wave: Seja bem-vindo(a) ao meu perfil.
 - :books:  Sou técnico em Análise e Desenvolvimento de Sistemas na ETEC e graduado em Informática para Negócios na FATEC.
 
 <!--
